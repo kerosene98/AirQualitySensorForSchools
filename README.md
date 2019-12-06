@@ -8,4 +8,4 @@ Our meetup group meets once per month at the Barclays Eagle Labs office space in
 
 We aim to design, develop and deploy a LPWAN enable air quality sensor stack at a yet undefined school location, or multiple locations, to record air quality trend data. The aim is to highlight the effect of parents using cars within close proximity to school premises and how air quality is being reduced due to unintentional parent action. 
 
-This is an awareness and trend data driven project, aiming to utilize LPWAN devices and open source methodolgies in an educational and skillset learning / testing community shared environment.
+This is an awareness and trend data driven project, aiming to utilize LPWAN devices and open source methodologies in an educational and skillset learning / testing community shared environment.
